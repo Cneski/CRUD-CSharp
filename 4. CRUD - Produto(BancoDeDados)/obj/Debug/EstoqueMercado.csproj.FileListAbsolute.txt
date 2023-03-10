@@ -1,0 +1,348 @@
+C:\Users\Marx\source\repos\EstoqueMercado\bin\Debug\EstoqueMercado.exe.config
+C:\Users\Marx\source\repos\EstoqueMercado\bin\Debug\EstoqueMercado.exe
+C:\Users\Marx\source\repos\EstoqueMercado\bin\Debug\EstoqueMercado.pdb
+C:\Users\Marx\source\repos\EstoqueMercado\obj\Debug\EstoqueMercado.csproj.AssemblyReference.cache
+C:\Users\Marx\source\repos\EstoqueMercado\obj\Debug\EstoqueMercado.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marx\source\repos\EstoqueMercado\obj\Debug\EstoqueMercado.Properties.Resources.resources
+C:\Users\Marx\source\repos\EstoqueMercado\obj\Debug\EstoqueMercado.csproj.GenerateResource.cache
+C:\Users\Marx\source\repos\EstoqueMercado\obj\Debug\EstoqueMercado.csproj.CoreCompileInputs.cache
+C:\Users\Marx\source\repos\EstoqueMercado\obj\Debug\EstoqueMercado.exe
+C:\Users\Marx\source\repos\EstoqueMercado\obj\Debug\EstoqueMercado.pdb
+C:\Users\Marx\source\repos\EstoqueMercado\obj\Debug\EstoqueMercado.TelaCadastro.resources
+C:\Users\Marx\source\repos\EstoqueMercado\obj\Debug\EstoqueMercado.TelaInicial.resources
+C:\Users\Marx\source\repos\CRUD---Produtos-main\EstoqueMercado\bin\Debug\EstoqueMercado.exe.config
+C:\Users\Marx\source\repos\CRUD---Produtos-main\EstoqueMercado\bin\Debug\EstoqueMercado.exe
+C:\Users\Marx\source\repos\CRUD---Produtos-main\EstoqueMercado\bin\Debug\EstoqueMercado.pdb
+C:\Users\Marx\source\repos\CRUD---Produtos-main\EstoqueMercado\obj\Debug\EstoqueMercado.csproj.AssemblyReference.cache
+C:\Users\Marx\source\repos\CRUD---Produtos-main\EstoqueMercado\obj\Debug\EstoqueMercado.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marx\source\repos\CRUD---Produtos-main\EstoqueMercado\obj\Debug\EstoqueMercado.TelaCadastro.resources
+C:\Users\Marx\source\repos\CRUD---Produtos-main\EstoqueMercado\obj\Debug\EstoqueMercado.TelaInicial.resources
+C:\Users\Marx\source\repos\CRUD---Produtos-main\EstoqueMercado\obj\Debug\EstoqueMercado.Properties.Resources.resources
+C:\Users\Marx\source\repos\CRUD---Produtos-main\EstoqueMercado\obj\Debug\EstoqueMercado.csproj.GenerateResource.cache
+C:\Users\Marx\source\repos\CRUD---Produtos-main\EstoqueMercado\obj\Debug\EstoqueMercado.csproj.CoreCompileInputs.cache
+C:\Users\Marx\source\repos\CRUD---Produtos-main\EstoqueMercado\obj\Debug\EstoqueMercado.exe
+C:\Users\Marx\source\repos\CRUD---Produtos-main\EstoqueMercado\obj\Debug\EstoqueMercado.pdb
+C:\Users\Usuario\source\repos\CRUD---Produtos-main\EstoqueMercado\bin\Debug\EstoqueMercado.exe.config
+C:\Users\Usuario\source\repos\CRUD---Produtos-main\EstoqueMercado\bin\Debug\EstoqueMercado.exe
+C:\Users\Usuario\source\repos\CRUD---Produtos-main\EstoqueMercado\bin\Debug\EstoqueMercado.pdb
+C:\Users\Usuario\source\repos\CRUD---Produtos-main\EstoqueMercado\obj\Debug\EstoqueMercado.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\CRUD---Produtos-main\EstoqueMercado\obj\Debug\EstoqueMercado.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\source\repos\CRUD---Produtos-main\EstoqueMercado\obj\Debug\EstoqueMercado.TelaCadastro.resources
+C:\Users\Usuario\source\repos\CRUD---Produtos-main\EstoqueMercado\obj\Debug\EstoqueMercado.TelaInicial.resources
+C:\Users\Usuario\source\repos\CRUD---Produtos-main\EstoqueMercado\obj\Debug\EstoqueMercado.Properties.Resources.resources
+C:\Users\Usuario\source\repos\CRUD---Produtos-main\EstoqueMercado\obj\Debug\EstoqueMercado.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\CRUD---Produtos-main\EstoqueMercado\obj\Debug\EstoqueMercado.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\CRUD---Produtos-main\EstoqueMercado\obj\Debug\EstoqueMercado.exe
+C:\Users\Usuario\source\repos\CRUD---Produtos-main\EstoqueMercado\obj\Debug\EstoqueMercado.pdb
+C:\Users\Marx\source\repos\CRUD - Produto\bin\Debug\EstoqueMercado.exe.config
+C:\Users\Marx\source\repos\CRUD - Produto\bin\Debug\EstoqueMercado.exe
+C:\Users\Marx\source\repos\CRUD - Produto\bin\Debug\EstoqueMercado.pdb
+C:\Users\Marx\source\repos\CRUD - Produto\obj\Debug\EstoqueMercado.csproj.AssemblyReference.cache
+C:\Users\Marx\source\repos\CRUD - Produto\obj\Debug\EstoqueMercado.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marx\source\repos\CRUD - Produto\obj\Debug\EstoqueMercado.TelaCadastro.resources
+C:\Users\Marx\source\repos\CRUD - Produto\obj\Debug\EstoqueMercado.TelaInicial.resources
+C:\Users\Marx\source\repos\CRUD - Produto\obj\Debug\EstoqueMercado.Properties.Resources.resources
+C:\Users\Marx\source\repos\CRUD - Produto\obj\Debug\EstoqueMercado.csproj.GenerateResource.cache
+C:\Users\Marx\source\repos\CRUD - Produto\obj\Debug\EstoqueMercado.csproj.CoreCompileInputs.cache
+C:\Users\Marx\source\repos\CRUD - Produto\obj\Debug\EstoqueMercado.exe
+C:\Users\Marx\source\repos\CRUD - Produto\obj\Debug\EstoqueMercado.pdb
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\EstoqueMercado.exe.config
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\EstoqueMercado.exe
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\EstoqueMercado.pdb
+C:\Users\Usuario\source\repos\CRUD - Produto\obj\Debug\EstoqueMercado.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\CRUD - Produto\obj\Debug\EstoqueMercado.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\source\repos\CRUD - Produto\obj\Debug\EstoqueMercado.TelaCadastro.resources
+C:\Users\Usuario\source\repos\CRUD - Produto\obj\Debug\EstoqueMercado.TelaInicial.resources
+C:\Users\Usuario\source\repos\CRUD - Produto\obj\Debug\EstoqueMercado.Properties.Resources.resources
+C:\Users\Usuario\source\repos\CRUD - Produto\obj\Debug\EstoqueMercado.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\CRUD - Produto\obj\Debug\EstoqueMercado.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\CRUD - Produto\obj\Debug\EstoqueMercado.exe
+C:\Users\Usuario\source\repos\CRUD - Produto\obj\Debug\EstoqueMercado.pdb
+C:\Users\Usuario\Documents\CRUD - Produto\bin\Debug\EstoqueMercado.exe.config
+C:\Users\Usuario\Documents\CRUD - Produto\bin\Debug\EstoqueMercado.exe
+C:\Users\Usuario\Documents\CRUD - Produto\bin\Debug\EstoqueMercado.pdb
+C:\Users\Usuario\Documents\CRUD - Produto\obj\Debug\EstoqueMercado.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\CRUD - Produto\obj\Debug\EstoqueMercado.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Documents\CRUD - Produto\obj\Debug\EstoqueMercado.TelaCadastro.resources
+C:\Users\Usuario\Documents\CRUD - Produto\obj\Debug\EstoqueMercado.TelaInicial.resources
+C:\Users\Usuario\Documents\CRUD - Produto\obj\Debug\EstoqueMercado.Properties.Resources.resources
+C:\Users\Usuario\Documents\CRUD - Produto\obj\Debug\EstoqueMercado.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\CRUD - Produto\obj\Debug\EstoqueMercado.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\CRUD - Produto\obj\Debug\EstoqueMercado.exe
+C:\Users\Usuario\Documents\CRUD - Produto\obj\Debug\EstoqueMercado.pdb
+C:\Users\Usuario\source\repos\CRUD-Produto-Repository\bin\Debug\EstoqueMercado.exe.config
+C:\Users\Usuario\source\repos\CRUD-Produto-Repository\bin\Debug\EstoqueMercado.exe
+C:\Users\Usuario\source\repos\CRUD-Produto-Repository\bin\Debug\EstoqueMercado.pdb
+C:\Users\Usuario\source\repos\CRUD-Produto-Repository\obj\Debug\EstoqueMercado.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\CRUD-Produto-Repository\obj\Debug\EstoqueMercado.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\source\repos\CRUD-Produto-Repository\obj\Debug\EstoqueMercado.TelaCadastro.resources
+C:\Users\Usuario\source\repos\CRUD-Produto-Repository\obj\Debug\EstoqueMercado.TelaInicial.resources
+C:\Users\Usuario\source\repos\CRUD-Produto-Repository\obj\Debug\EstoqueMercado.Properties.Resources.resources
+C:\Users\Usuario\source\repos\CRUD-Produto-Repository\obj\Debug\EstoqueMercado.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\CRUD-Produto-Repository\obj\Debug\EstoqueMercado.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\CRUD-Produto-Repository\obj\Debug\EstoqueMercado.exe
+C:\Users\Usuario\source\repos\CRUD-Produto-Repository\obj\Debug\EstoqueMercado.pdb
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\amd64\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\amd64\Microsoft.VC90.CRT\msvcr90.dll
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\amd64\Microsoft.VC90.CRT\README_ENU.txt
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\amd64\sqlceca40.dll
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\amd64\sqlcecompact40.dll
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\amd64\sqlceer40EN.dll
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\amd64\sqlceme40.dll
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\amd64\sqlceqp40.dll
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\amd64\sqlcese40.dll
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\x86\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\x86\Microsoft.VC90.CRT\msvcr90.dll
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\x86\Microsoft.VC90.CRT\README_ENU.txt
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\x86\sqlceca40.dll
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\x86\sqlcecompact40.dll
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\x86\sqlceer40EN.dll
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\x86\sqlceme40.dll
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\x86\sqlceqp40.dll
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\x86\sqlcese40.dll
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\FluentMigrator.Abstractions.dll
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\FluentMigrator.dll
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\FluentMigrator.Extensions.Oracle.dll
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\FluentMigrator.Extensions.Postgres.dll
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\FluentMigrator.Extensions.SqlAnywhere.dll
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\FluentMigrator.Extensions.SqlServer.dll
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\FluentMigrator.Runner.Core.dll
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\FluentMigrator.Runner.Db2.dll
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\FluentMigrator.Runner.dll
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\FluentMigrator.Runner.Firebird.dll
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\FluentMigrator.Runner.Hana.dll
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\FluentMigrator.Runner.Jet.dll
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\FluentMigrator.Runner.MySql.dll
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\FluentMigrator.Runner.Oracle.dll
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\FluentMigrator.Runner.Postgres.dll
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\FluentMigrator.Runner.Redshift.dll
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\FluentMigrator.Runner.SqlAnywhere.dll
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\FluentMigrator.Runner.SQLite.dll
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\FluentMigrator.Runner.SqlServer.dll
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\FluentMigrator.Runner.SqlServerCe.dll
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\System.ValueTuple.dll
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\FluentMigrator.pdb
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\FluentMigrator.xml
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\FluentMigrator.Abstractions.pdb
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\FluentMigrator.Abstractions.xml
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\FluentMigrator.Extensions.Oracle.pdb
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\FluentMigrator.Extensions.Oracle.xml
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\FluentMigrator.Extensions.Postgres.pdb
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\FluentMigrator.Extensions.Postgres.xml
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\FluentMigrator.Extensions.SqlAnywhere.pdb
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\FluentMigrator.Extensions.SqlAnywhere.xml
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\FluentMigrator.Extensions.SqlServer.pdb
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\FluentMigrator.Extensions.SqlServer.xml
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\FluentMigrator.Runner.pdb
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\FluentMigrator.Runner.xml
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\FluentMigrator.Runner.Core.pdb
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\FluentMigrator.Runner.Core.xml
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\FluentMigrator.Runner.Db2.pdb
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\FluentMigrator.Runner.Db2.xml
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\FluentMigrator.Runner.Firebird.pdb
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\FluentMigrator.Runner.Firebird.xml
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\FluentMigrator.Runner.Hana.pdb
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\FluentMigrator.Runner.Hana.xml
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\FluentMigrator.Runner.Jet.pdb
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\FluentMigrator.Runner.Jet.xml
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\FluentMigrator.Runner.MySql.pdb
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\FluentMigrator.Runner.MySql.xml
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\FluentMigrator.Runner.Oracle.pdb
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\FluentMigrator.Runner.Oracle.xml
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\FluentMigrator.Runner.Postgres.pdb
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\FluentMigrator.Runner.Postgres.xml
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\FluentMigrator.Runner.Redshift.pdb
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\FluentMigrator.Runner.Redshift.xml
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\FluentMigrator.Runner.SqlAnywhere.pdb
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\FluentMigrator.Runner.SqlAnywhere.xml
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\FluentMigrator.Runner.SQLite.pdb
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\FluentMigrator.Runner.SQLite.xml
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\FluentMigrator.Runner.SqlServer.pdb
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\FluentMigrator.Runner.SqlServer.xml
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\FluentMigrator.Runner.SqlServerCe.pdb
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\FluentMigrator.Runner.SqlServerCe.xml
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\System.ValueTuple.xml
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\de-DE\FluentMigrator.Abstractions.resources.dll
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Usuario\source\repos\CRUD - Produto\obj\Debug\EstoqueMercado.csproj.CopyComplete
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\amd64\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\amd64\Microsoft.VC90.CRT\msvcr90.dll
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\amd64\Microsoft.VC90.CRT\README_ENU.txt
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\amd64\sqlceca40.dll
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\amd64\sqlcecompact40.dll
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\amd64\sqlceer40EN.dll
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\amd64\sqlceme40.dll
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\amd64\sqlceqp40.dll
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\amd64\sqlcese40.dll
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\x86\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\x86\Microsoft.VC90.CRT\msvcr90.dll
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\x86\Microsoft.VC90.CRT\README_ENU.txt
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\x86\sqlceca40.dll
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\x86\sqlcecompact40.dll
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\x86\sqlceer40EN.dll
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\x86\sqlceme40.dll
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\x86\sqlceqp40.dll
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\x86\sqlcese40.dll
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\EstoqueMercado.exe.config
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\EstoqueMercado.exe
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\EstoqueMercado.pdb
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\FluentMigrator.Abstractions.dll
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\FluentMigrator.dll
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\FluentMigrator.Extensions.Oracle.dll
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\FluentMigrator.Extensions.Postgres.dll
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\FluentMigrator.Extensions.SqlAnywhere.dll
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\FluentMigrator.Extensions.SqlServer.dll
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\FluentMigrator.Runner.Core.dll
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\FluentMigrator.Runner.Db2.dll
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\FluentMigrator.Runner.dll
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\FluentMigrator.Runner.Firebird.dll
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\FluentMigrator.Runner.Hana.dll
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\FluentMigrator.Runner.Jet.dll
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\FluentMigrator.Runner.MySql.dll
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\FluentMigrator.Runner.Oracle.dll
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\FluentMigrator.Runner.Postgres.dll
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\FluentMigrator.Runner.Redshift.dll
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\FluentMigrator.Runner.SqlAnywhere.dll
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\FluentMigrator.Runner.SQLite.dll
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\FluentMigrator.Runner.SqlServer.dll
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\FluentMigrator.Runner.SqlServerCe.dll
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\System.ValueTuple.dll
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\FluentMigrator.pdb
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\FluentMigrator.xml
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\FluentMigrator.Abstractions.pdb
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\FluentMigrator.Abstractions.xml
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\FluentMigrator.Extensions.Oracle.pdb
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\FluentMigrator.Extensions.Oracle.xml
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\FluentMigrator.Extensions.Postgres.pdb
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\FluentMigrator.Extensions.Postgres.xml
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\FluentMigrator.Extensions.SqlAnywhere.pdb
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\FluentMigrator.Extensions.SqlAnywhere.xml
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\FluentMigrator.Extensions.SqlServer.pdb
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\FluentMigrator.Extensions.SqlServer.xml
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\FluentMigrator.Runner.pdb
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\FluentMigrator.Runner.xml
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\FluentMigrator.Runner.Core.pdb
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\FluentMigrator.Runner.Core.xml
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\FluentMigrator.Runner.Db2.pdb
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\FluentMigrator.Runner.Db2.xml
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\FluentMigrator.Runner.Firebird.pdb
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\FluentMigrator.Runner.Firebird.xml
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\FluentMigrator.Runner.Hana.pdb
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\FluentMigrator.Runner.Hana.xml
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\FluentMigrator.Runner.Jet.pdb
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\FluentMigrator.Runner.Jet.xml
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\FluentMigrator.Runner.MySql.pdb
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\FluentMigrator.Runner.MySql.xml
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\FluentMigrator.Runner.Oracle.pdb
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\FluentMigrator.Runner.Oracle.xml
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\FluentMigrator.Runner.Postgres.pdb
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\FluentMigrator.Runner.Postgres.xml
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\FluentMigrator.Runner.Redshift.pdb
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\FluentMigrator.Runner.Redshift.xml
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\FluentMigrator.Runner.SqlAnywhere.pdb
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\FluentMigrator.Runner.SqlAnywhere.xml
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\FluentMigrator.Runner.SQLite.pdb
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\FluentMigrator.Runner.SQLite.xml
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\FluentMigrator.Runner.SqlServer.pdb
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\FluentMigrator.Runner.SqlServer.xml
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\FluentMigrator.Runner.SqlServerCe.pdb
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\FluentMigrator.Runner.SqlServerCe.xml
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\System.ValueTuple.xml
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\de-DE\FluentMigrator.Abstractions.resources.dll
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\obj\Debug\EstoqueMercado.csproj.AssemblyReference.cache
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\obj\Debug\EstoqueMercado.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\obj\Debug\EstoqueMercado.TelaCadastro.resources
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\obj\Debug\EstoqueMercado.TelaInicial.resources
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\obj\Debug\EstoqueMercado.Properties.Resources.resources
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\obj\Debug\EstoqueMercado.csproj.GenerateResource.cache
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\obj\Debug\EstoqueMercado.csproj.CoreCompileInputs.cache
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\obj\Debug\EstoqueMercado.csproj.CopyComplete
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\obj\Debug\EstoqueMercado.exe
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\4. CRUD - Produto(BancoDeDados)\obj\Debug\EstoqueMercado.pdb

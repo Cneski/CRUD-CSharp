@@ -1,0 +1,84 @@
+C:\Users\Marx\source\repos\EstoqueMercado\bin\Debug\EstoqueMercado.exe.config
+C:\Users\Marx\source\repos\EstoqueMercado\bin\Debug\EstoqueMercado.exe
+C:\Users\Marx\source\repos\EstoqueMercado\bin\Debug\EstoqueMercado.pdb
+C:\Users\Marx\source\repos\EstoqueMercado\obj\Debug\EstoqueMercado.csproj.AssemblyReference.cache
+C:\Users\Marx\source\repos\EstoqueMercado\obj\Debug\EstoqueMercado.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marx\source\repos\EstoqueMercado\obj\Debug\EstoqueMercado.Properties.Resources.resources
+C:\Users\Marx\source\repos\EstoqueMercado\obj\Debug\EstoqueMercado.csproj.GenerateResource.cache
+C:\Users\Marx\source\repos\EstoqueMercado\obj\Debug\EstoqueMercado.csproj.CoreCompileInputs.cache
+C:\Users\Marx\source\repos\EstoqueMercado\obj\Debug\EstoqueMercado.exe
+C:\Users\Marx\source\repos\EstoqueMercado\obj\Debug\EstoqueMercado.pdb
+C:\Users\Marx\source\repos\EstoqueMercado\obj\Debug\EstoqueMercado.TelaCadastro.resources
+C:\Users\Marx\source\repos\EstoqueMercado\obj\Debug\EstoqueMercado.TelaInicial.resources
+C:\Users\Marx\source\repos\CRUD---Produtos-main\EstoqueMercado\bin\Debug\EstoqueMercado.exe.config
+C:\Users\Marx\source\repos\CRUD---Produtos-main\EstoqueMercado\bin\Debug\EstoqueMercado.exe
+C:\Users\Marx\source\repos\CRUD---Produtos-main\EstoqueMercado\bin\Debug\EstoqueMercado.pdb
+C:\Users\Marx\source\repos\CRUD---Produtos-main\EstoqueMercado\obj\Debug\EstoqueMercado.csproj.AssemblyReference.cache
+C:\Users\Marx\source\repos\CRUD---Produtos-main\EstoqueMercado\obj\Debug\EstoqueMercado.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marx\source\repos\CRUD---Produtos-main\EstoqueMercado\obj\Debug\EstoqueMercado.TelaCadastro.resources
+C:\Users\Marx\source\repos\CRUD---Produtos-main\EstoqueMercado\obj\Debug\EstoqueMercado.TelaInicial.resources
+C:\Users\Marx\source\repos\CRUD---Produtos-main\EstoqueMercado\obj\Debug\EstoqueMercado.Properties.Resources.resources
+C:\Users\Marx\source\repos\CRUD---Produtos-main\EstoqueMercado\obj\Debug\EstoqueMercado.csproj.GenerateResource.cache
+C:\Users\Marx\source\repos\CRUD---Produtos-main\EstoqueMercado\obj\Debug\EstoqueMercado.csproj.CoreCompileInputs.cache
+C:\Users\Marx\source\repos\CRUD---Produtos-main\EstoqueMercado\obj\Debug\EstoqueMercado.exe
+C:\Users\Marx\source\repos\CRUD---Produtos-main\EstoqueMercado\obj\Debug\EstoqueMercado.pdb
+C:\Users\Usuario\source\repos\CRUD---Produtos-main\EstoqueMercado\bin\Debug\EstoqueMercado.exe.config
+C:\Users\Usuario\source\repos\CRUD---Produtos-main\EstoqueMercado\bin\Debug\EstoqueMercado.exe
+C:\Users\Usuario\source\repos\CRUD---Produtos-main\EstoqueMercado\bin\Debug\EstoqueMercado.pdb
+C:\Users\Usuario\source\repos\CRUD---Produtos-main\EstoqueMercado\obj\Debug\EstoqueMercado.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\CRUD---Produtos-main\EstoqueMercado\obj\Debug\EstoqueMercado.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\source\repos\CRUD---Produtos-main\EstoqueMercado\obj\Debug\EstoqueMercado.TelaCadastro.resources
+C:\Users\Usuario\source\repos\CRUD---Produtos-main\EstoqueMercado\obj\Debug\EstoqueMercado.TelaInicial.resources
+C:\Users\Usuario\source\repos\CRUD---Produtos-main\EstoqueMercado\obj\Debug\EstoqueMercado.Properties.Resources.resources
+C:\Users\Usuario\source\repos\CRUD---Produtos-main\EstoqueMercado\obj\Debug\EstoqueMercado.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\CRUD---Produtos-main\EstoqueMercado\obj\Debug\EstoqueMercado.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\CRUD---Produtos-main\EstoqueMercado\obj\Debug\EstoqueMercado.exe
+C:\Users\Usuario\source\repos\CRUD---Produtos-main\EstoqueMercado\obj\Debug\EstoqueMercado.pdb
+C:\Users\Marx\source\repos\CRUD - Produto\bin\Debug\EstoqueMercado.exe.config
+C:\Users\Marx\source\repos\CRUD - Produto\bin\Debug\EstoqueMercado.exe
+C:\Users\Marx\source\repos\CRUD - Produto\bin\Debug\EstoqueMercado.pdb
+C:\Users\Marx\source\repos\CRUD - Produto\obj\Debug\EstoqueMercado.csproj.AssemblyReference.cache
+C:\Users\Marx\source\repos\CRUD - Produto\obj\Debug\EstoqueMercado.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marx\source\repos\CRUD - Produto\obj\Debug\EstoqueMercado.TelaCadastro.resources
+C:\Users\Marx\source\repos\CRUD - Produto\obj\Debug\EstoqueMercado.TelaInicial.resources
+C:\Users\Marx\source\repos\CRUD - Produto\obj\Debug\EstoqueMercado.Properties.Resources.resources
+C:\Users\Marx\source\repos\CRUD - Produto\obj\Debug\EstoqueMercado.csproj.GenerateResource.cache
+C:\Users\Marx\source\repos\CRUD - Produto\obj\Debug\EstoqueMercado.csproj.CoreCompileInputs.cache
+C:\Users\Marx\source\repos\CRUD - Produto\obj\Debug\EstoqueMercado.exe
+C:\Users\Marx\source\repos\CRUD - Produto\obj\Debug\EstoqueMercado.pdb
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\EstoqueMercado.exe.config
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\EstoqueMercado.exe
+C:\Users\Usuario\source\repos\CRUD - Produto\bin\Debug\EstoqueMercado.pdb
+C:\Users\Usuario\source\repos\CRUD - Produto\obj\Debug\EstoqueMercado.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\CRUD - Produto\obj\Debug\EstoqueMercado.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\source\repos\CRUD - Produto\obj\Debug\EstoqueMercado.TelaCadastro.resources
+C:\Users\Usuario\source\repos\CRUD - Produto\obj\Debug\EstoqueMercado.TelaInicial.resources
+C:\Users\Usuario\source\repos\CRUD - Produto\obj\Debug\EstoqueMercado.Properties.Resources.resources
+C:\Users\Usuario\source\repos\CRUD - Produto\obj\Debug\EstoqueMercado.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\CRUD - Produto\obj\Debug\EstoqueMercado.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\CRUD - Produto\obj\Debug\EstoqueMercado.exe
+C:\Users\Usuario\source\repos\CRUD - Produto\obj\Debug\EstoqueMercado.pdb
+C:\Users\Usuario\Documents\CRUD - Produto\bin\Debug\EstoqueMercado.exe.config
+C:\Users\Usuario\Documents\CRUD - Produto\bin\Debug\EstoqueMercado.exe
+C:\Users\Usuario\Documents\CRUD - Produto\bin\Debug\EstoqueMercado.pdb
+C:\Users\Usuario\Documents\CRUD - Produto\obj\Debug\EstoqueMercado.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\CRUD - Produto\obj\Debug\EstoqueMercado.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Documents\CRUD - Produto\obj\Debug\EstoqueMercado.TelaCadastro.resources
+C:\Users\Usuario\Documents\CRUD - Produto\obj\Debug\EstoqueMercado.TelaInicial.resources
+C:\Users\Usuario\Documents\CRUD - Produto\obj\Debug\EstoqueMercado.Properties.Resources.resources
+C:\Users\Usuario\Documents\CRUD - Produto\obj\Debug\EstoqueMercado.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\CRUD - Produto\obj\Debug\EstoqueMercado.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\CRUD - Produto\obj\Debug\EstoqueMercado.exe
+C:\Users\Usuario\Documents\CRUD - Produto\obj\Debug\EstoqueMercado.pdb
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\2. CRUD - Produto(BMSingleton)\bin\Debug\EstoqueMercado.exe.config
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\2. CRUD - Produto(BMSingleton)\bin\Debug\EstoqueMercado.exe
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\2. CRUD - Produto(BMSingleton)\bin\Debug\EstoqueMercado.pdb
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\2. CRUD - Produto(BMSingleton)\obj\Debug\EstoqueMercado.csproj.AssemblyReference.cache
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\2. CRUD - Produto(BMSingleton)\obj\Debug\EstoqueMercado.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\2. CRUD - Produto(BMSingleton)\obj\Debug\EstoqueMercado.TelaCadastro.resources
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\2. CRUD - Produto(BMSingleton)\obj\Debug\EstoqueMercado.TelaInicial.resources
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\2. CRUD - Produto(BMSingleton)\obj\Debug\EstoqueMercado.Properties.Resources.resources
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\2. CRUD - Produto(BMSingleton)\obj\Debug\EstoqueMercado.csproj.GenerateResource.cache
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\2. CRUD - Produto(BMSingleton)\obj\Debug\EstoqueMercado.csproj.CoreCompileInputs.cache
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\2. CRUD - Produto(BMSingleton)\obj\Debug\EstoqueMercado.exe
+C:\Users\Marx\source\repos\CRUD-Produto-Temporario\2. CRUD - Produto(BMSingleton)\obj\Debug\EstoqueMercado.pdb
